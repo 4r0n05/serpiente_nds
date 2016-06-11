@@ -10,4 +10,4 @@ make -B;
 
 ##Ejecutar emulador
 
-desmume *.nds;
+desmume serpiente_nds.nds;
